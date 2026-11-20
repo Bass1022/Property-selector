@@ -10,20 +10,20 @@ print("\nHello, " + name + "!\n")
 city = input("What city are you looking in?: ")
 
 # Knoxville Properties
-apt1 = "308 Knox Rd Apt 1"
+apt1 = "Apt 1"
 link1 = "PASTE ZILLOW LINK 1 HERE"
 
-apt2 = "308 Knox Rd Apt 3"
+apt2 = "Apt 2"
 link2 = "PASTE ZILLOW LINK 2 HERE"
 
-apt3 = "724 Ben Hur"
+apt3 = "Apt 3"
 link3 = "PASTE ZILLOW LINK 3 HERE"
 
 # OakRidge Properties
-apt4 = "363 Robertsville Rd"
+apt4 = "Apt 4"
 link4 = "PASTE ZILLOW LINK 4 HERE"
 
-apt5 = "167 Latimer Rd"
+apt5 = "Apt 5"
 link5 = "PASTE ZILLOW LINK 5 HERE"
 
 
